@@ -2,7 +2,7 @@
 
 A MATLAB-based tool for preliminary mission analysis of satellites in Low Earth Orbit (LEO). This project allows users to simulate Sun-Synchronous Orbits (SSO), visualize Ground Tracks, and calculate visibility windows for single satellites or multi-satellite constellations.
 
-# Features
+## Features
 
 1. **Sun-Synchronous Orbit Modeling:** Automatically calculates the required inclination for SSO based on altitude.
 2. **Constellation Analysis:** Supports n-satellite constellations with customizable RAAN and Mean Anomaly.
